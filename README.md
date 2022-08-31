@@ -1,4 +1,4 @@
-# A simple site to display the history of the price of Etherium gas (test task)
+# A simple site to display the history of the price of Ethereum gas (test task)
 
 ### `npm start`
 
